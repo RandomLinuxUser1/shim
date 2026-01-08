@@ -3,7 +3,7 @@
 clear
 
 echo "===================================="
-echo "      Welcome to CSD83 x SHIM"
+echo "      Welcome to CSD x SHIM"
 echo "The ultimate tool for csd83 devices"
 echo "===================================="
 echo
@@ -86,7 +86,7 @@ read -a APP_CHOICES
 
 clear
 echo "===================================="
-echo " Executing CSD83 x SHIM Setup"
+echo " Executing CSD x SHIM Setup"
 echo "===================================="
 echo
 
@@ -184,6 +184,6 @@ done
 
 echo
 echo "===================================="
-echo "    CSD83 x SHIM setup complete"
+echo "    CSD x SHIM setup complete"
 echo " Please reboot back into shimboot"
 echo "===================================="
