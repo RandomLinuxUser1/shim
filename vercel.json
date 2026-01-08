@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "/csd.sh",
+      "destination": "/csd83.sh",
       "permanent": false
     }
   ]
