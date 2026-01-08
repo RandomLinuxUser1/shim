@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/csd.sh",
+      "permanent": false
+    }
+  ]
+}
