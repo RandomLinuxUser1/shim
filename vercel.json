@@ -1,9 +1,5 @@
 {
-  "redirects": [
-    {
-      "source": "/",
-      "destination": "/csd.sh",
-      "permanent": false
-    }
+  "routes": [
+    { "src": "/", "dest": "/api/install.js" }
   ]
 }
